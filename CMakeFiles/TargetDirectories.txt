@@ -1,0 +1,3 @@
+/home/michael/QtProjects/build-objWriterReader-Desktop_Qt_6_0_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/michael/QtProjects/build-objWriterReader-Desktop_Qt_6_0_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/michael/QtProjects/build-objWriterReader-Desktop_Qt_6_0_3_GCC_64bit-Debug/CMakeFiles/objWriterReader.dir
